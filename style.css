@@ -1,0 +1,471 @@
+body {background-color: black;}
+.nav_bar{
+margin: auto;
+border-bottom: 50px groove darkblue;
+width: 100%;
+height: 250px;
+font-family: 'Audiowide';
+}
+.nav_bar ul {
+	padding: 100px;
+	list-style: none;
+}
+.nav_bar ul li {
+	float: right;
+	font-size: 70px;
+	font-weight: bold;
+	margin-right:10px;
+	border-style: groove;
+	border-width:15px;
+	border-color: red;
+	background-color: darkblue;
+}
+.nav_bar ul li a{
+text-decoration: underline overline;
+color:white;;
+}
+
+.nav_bar ul li1 {
+	text-align:center;
+	float: right;
+	font-size: 70px;
+	font-weight: bold;
+	margin-right:60px;
+	border-style: groove;
+	border-width:15px;
+	border-color: red;
+	background-color: darkblue;
+}
+
+.nav_bar ul li1 a{
+text-decoration: underline overline;
+color:white;
+}
+
+.nav_bar ul li2 {
+	text-align:center;
+	float: right;
+	font-size: 70px;
+	font-weight: bold;
+	margin-right:45px;
+	border-style: groove;
+	border-width:15px;
+	border-color: red;
+	background-color: darkblue;
+}
+
+.nav_bar ul li2 a{
+text-decoration: underline overline;
+color:white;
+}
+
+.nav_bar ul li3 {
+	text-align:center;
+	float: right;
+	font-size: 70px;
+	font-weight: bold;
+	margin-right:27px;
+	border-style: groove;
+	border-width:15px;
+	border-color: red;
+	background-color: darkblue;
+	
+}
+
+.nav_bar ul li3{
+text-decoration: underline overline;
+text-decoration-color: white;
+}
+
+.Team{
+	width:50%;
+	height:62%;
+	margin-left: auto;
+	margin-right: auto;
+	position: absolute;
+    top:50%;
+	left: 425px;
+	border-style: groove;
+    border-width: 50px;
+	border-color: red;	
+}
+
+.Title
+{font-family: 'Audiowide';
+color:white;
+font-size: 100px;
+position:absolute;
+top: 26%;
+left:500px;
+text-decoration: underline overline;
+}
+
+.Meaning
+{font-family: 'Audiowide';
+color: white;
+font-size: 100px;
+position:absolute;
+top: 115%;
+left: 425px;
+width:1050px; 
+text-align: center;
+text-decoration: underline overline;
+	
+}
+.p1{
+top:525px;
+position:absolute;
+border-style: ridge; border-color: red;border-width: thick;
+left:400px;}
+.p2
+{top:950px;
+position: absolute;border-style: ridge; border-color: red;border-width: thick; left:400px;}
+.p3
+{top:1245px;
+position:absolute;border-style: ridge; border-color: red;border-width: thick;left:400px;}
+.p4
+{top:1600px;
+position:absolute;border-style: ridge; border-color: red;border-width: thick;left:400px;}
+.p5
+{top:1995px;
+position:absolute;border-style: ridge; border-color: red;border-width: thick;left:400px;}
+.p6
+{top:2400px; height: 290px;
+position:absolute;border-style: ridge; border-color: red;border-width: thick;left:400px;}
+.p7
+{top:2825px;
+position:absolute;border-style: ridge; border-color: red;border-width: thick;left:400px;}
+
+.p8
+{top:505px;
+position:absolute;border-style: ridge; border-color: red;border-width: thick; width: 200px;left:400px;}
+
+.p11{top:850px;
+position:absolute;border-style: ridge; border-color: red;border-width: thick; width: 175px;left:400px;}
+
+.p12{top: 1250px;
+position:absolute;border-style: ridge; border-color: red;border-width: thick; width: 200px;left:400px}
+
+.p13
+{top:350px;
+position:absolute;border-style: ridge; border-color: red;border-width: thick; width: 200px;left:-260px; height: 250px;} 
+
+.pg1{top: 475px;
+position:absolute;font-family: 'Audiowide';color: white; font-size: 25px; left: 650px;border-style: ridge; border-color: red; border-width: thick; width:600px;}
+
+.pg2{top:975px;
+position: absolute;font-family: 'Audiowide';color: white; font-size: 25px; left: 650px;border-style: ridge; border-color: red;border-width: thick; width:600px;}
+
+.pg3{top:1250px;
+position:absolute;font-family: 'Audiowide';color: white;font-size: 25px; left: 650px;border-style: ridge; border-color: red;border-width: thick; width:600px;}
+
+.pg4{top:1625px;
+position:absolute;font-family: 'Audiowide'; color: white;font-size: 25px;left:650px;border-style: ridge; border-color: red;border-width: thick; width:560px;}
+
+.pg5{top:1950px;
+position:absolute;font-family: 'Audiowide'; color: white;font-size: 25px; border-style: ridge; border-color: red; left: 650px;border-width: thick; width: 600px;}
+
+.pg6{top:2300px;
+position:absolute;font-family: 'Audiowide';color:white;font-size: 25px;
+left: 600px;border-style: ridge; border-color: red;border-width: thick; width:650px}
+
+.pg7{top:2875px;
+position:absolute;font-family: 'Audiowide';
+color: white;font-size: 25px;
+left: 650px;border-style: ridge; border-color: red;border-width: thick;
+width:600px}
+
+.pg8{top:475px;
+position:absolute;font-family: 'Audiowide';
+color: white;font-size: 25px;
+left: 620px;border-style: ridge; border-color: red;border-width: thick;
+width:600px}
+
+.pg11{top:845px;
+position:absolute;font-family: 'Audiowide';
+color: white;font-size: 25px;
+left: 620px;border-style: ridge; border-color: red;border-width: thick;
+width:600px}
+
+.pg12{top:1225px;
+position:absolute;font-family: 'Audiowide';
+color: white;font-size: 25px;
+left: 620px;border-style: ridge; border-color: red;border-width: thick;
+width:600px}
+
+.pg13
+{top:355px;
+position:absolute;font-family: 'Audiowide';
+color: white;font-size: 25px;
+left: -10px;border-style: ridge; border-color: red;border-width: thick;
+width:600px}
+
+
+.pg17{top:845px;
+position:absolute;font-family: 'Audiowide';
+color: white;font-size: 25px;
+left: 620px;border-style: ridge; border-color: red;border-width: thick;
+width:600px}
+
+.pg18{top:845px;
+position:absolute;font-family: 'Audiowide';
+color: white;font-size: 25px;
+left: 620px;border-style: ridge; border-color: red;border-width: thick;
+width:600px}
+
+.pg19{top:845px;
+position:absolute;font-family: 'Audiowide';
+color: white;font-size: 25px;
+left: 620px;border-style: ridge; border-color: red;border-width: thick;
+width:600px}
+
+.pg20{top:475px;
+position:absolute; 
+left:820px; font-size: 30px; text-align:center; color: white;font-family: Audiowide}
+
+.pg21{top:695px;
+position:absolute;
+left:840px;font-size: 30px; text-align:center; color: white;font-family: Audiowide}
+
+.pg22{top:900px;
+position:absolute;
+left:775px;font-size: 30px; text-align:center; color: white;font-family: Audiowide}
+
+.pg23{top:1125px;
+position:absolute;
+left:800px;font-size: 30px; text-align:center;color: white; font-family: Audiowide}
+
+.pg24{top:520px;
+position:absolute;
+left:650px;font-size: 25px; text-align:center;color: white; font-family: Audiowide; width: 590px;}
+
+.pg25{top:740px;
+position:absolute;
+left:520px;font-size: 25px; text-align:center;color: white; font-family: Audiowide;width: 900px;}
+
+.pg26{top:950px;
+position:absolute;
+left:650px;font-size: 25px; text-align:center;color: white; font-family: Audiowide;width: 600px;}
+
+.pg27{top:1175px;
+position:absolute;
+left:525px;font-size: 30px; text-align:center;color: white; font-family: Audiowide; width: 800px;}
+
+.pg28{top:1225px;
+position:absolute;font-family: 'Audiowide';
+color: white;font-size: 25px;
+left: 620px;border-style: ridge; border-color: red;border-width: thick;
+width:600px}
+
+.pg29top:1225px;
+position:absolute;font-family: 'Audiowide';
+color: white;font-size: 25px;
+left: 620px;border-style: ridge; border-color: red;border-width: thick;
+width:600px} 
+
+.pg30top:1225px;
+position:absolute;font-family: 'Audiowide';
+color: white;font-size: 25px;
+left: 620px;border-style: ridge; border-color: red;border-width: thick;
+width:600px}
+
+.pg31top:1225px;
+position:absolute;font-family: 'Audiowide';
+color: white;font-size: 25px;
+left: 620px;border-style: ridge; border-color: red;border-width: thick;
+width:600px}
+
+.pg32top:1225px;
+position:absolute;font-family: 'Audiowide';
+color: white;font-size: 25px;
+left: 620px;border-style: ridge; border-color: red;border-width: thick;
+width:600px}
+
+.pg33{top:845px;
+position:absolute;font-family: 'Audiowide';
+color: white;font-size: 25px;
+left: 620px;border-style: ridge; border-color: red;border-width: thick;
+width:600px}
+
+.pg34{top:245px;
+position:absolute;font-family: 'Audiowide';
+color: white;font-size: 25px;
+left: 620px;border-style: dashed; border-color: red;border-width: thick;
+width:600px}
+
+
+.NASA1
+{position: absolute;
+top:80%;
+left: 30px;}
+
+.NASA2
+{position: absolute;
+top:80%;
+left: 1640px;}
+
+.NASA3
+{position: absolute;
+top: -1200px;
+left: -615px;
+}
+
+.NASA4
+{position: absolute;
+top: -1200px;
+left: 1000px;}
+
+.About-Us
+{position: absolute;
+font-family: 'Audiowide';
+color: white;
+font-size:100px;
+text-align: center;
+left: 700px;
+font-weight: bold;
+text-decoration:underline;}
+
+.Alumni
+{position: absolute;
+font-family: 'Audiowide';
+color: white;
+font-size:100px;
+text-align: center;
+left: 750px;
+font-weight: bold;
+text-decoration:underline;
+top: 33%}
+
+.Contact1{top:-2200px;
+position:absolute;font-family: 'Audiowide';color: white; font-size: 20px; left: 650px;border-style: ridge; border-color: red; border-width: thick; width:200px; text-align: center;}
+
+.Contact2{top:-1850px;
+position: absolute;font-family: 'Audiowide';color: white; font-size: 20px; left: 650px;border-style: ridge; border-color: red;border-width: thick; width:250px;text-align: center;}
+
+.Contact3{top:-1525px;
+position:absolute;font-family: 'Audiowide';color: white;font-size: 20px; left: 630px;border-style: ridge; border-color: red;border-width: thick; width:275px;text-align: center;}
+
+.Contact4{top:-1200px;
+position:absolute;font-family: 'Audiowide'; color: white;font-size: 20px;left:600px;border-style: ridge; border-color: red;border-width: thick; width:315px;text-align: center;}
+
+.Contact5{top:-825px;
+position:absolute;font-family: 'Audiowide'; color: white;font-size: 20px; border-style: ridge; border-color: red; left: 630px;border-width: thick; width:280px;text-align: center;}
+
+.Contact6{top:-300px;
+position:absolute;font-family: 'Audiowide';color:white;font-size: 20px;
+left: 630px;border-style: ridge; border-color: red;border-width: thick; width:292px;text-align: center;}
+
+.Contact7{top:40px;
+position:absolute;font-family: 'Audiowide';
+color: white;font-size: 20px;
+left: 640px;border-style: ridge; border-color: red; width: 275px; border-width:thick;
+;text-align: center;}
+
+.Contact8{top:575px;
+position:absolute;font-family: 'Audiowide';
+color: white;font-size: 20px;
+left: 1235px;border-style: ridge; border-color: red;border-width: thick;
+width:275px;text-align: center;}
+
+
+.Contact11{top:925px;
+position:absolute;font-family: 'Audiowide';
+color: white;font-size: 20px;
+left: 1235px;border-style: ridge; border-color: red;border-width: thick;
+width:275px;text-align: center;}
+
+
+.Contact12{top:1310px;
+position:absolute;font-family: 'Audiowide';
+color: white;font-size: 20px;
+left: 1235px;border-style: ridge; border-color: red;border-width: thick;
+width:275px;text-align: center;}
+.Contact13
+{top:400px;
+position:absolute;font-family: 'Audiowide';
+color: white;font-size: 20px;
+left: 625px;border-style: ridge; border-color: red;border-width: thick;
+width:275px;text-align: center;}
+
+.HUNCH{
+	position: absolute;
+font-family: 'Audiowide';
+color: white;
+font-size:100px;
+text-align: center;
+left: 400px;
+font-weight: bold;
+text-decoration:underline;
+top: 35%;
+}
+
+
+.Mission
+{position: absolute;
+font-family: 'Audiowide';
+color: white;
+font-size:100px;
+text-align: center;
+left: 325px;
+font-weight: bold;
+text-decoration:underline;
+top: 35%}
+
+.square {
+  height: 1300px;
+  width: 1205px;
+  background-color: darkblue;
+position: absolute;
+top: 32.5%;
+left: 322px;
+border-style: groove;
+border-color: red;
+border-width:25px;
+}
+.square1
+{
+ height: 2800px;
+  width: 1205px;
+  background-color: darkblue;
+position: absolute;
+top: 32.5%;
+left: 322px;
+border-style: groove;
+border-color: red;
+border-width:25px;
+}
+.square2
+{height: 1250px;
+  width: 1205px;
+  background-color: darkblue;
+position: absolute;
+top: 32.5%;
+left: 322px;
+border-style: groove;
+border-color: red;
+border-width:25px;}
+
+.square3
+{height: 2000px;
+  width: 1300px;
+  background-color: darkblue;
+position: absolute;
+top: 32.5%;
+left: 280px;
+border-style: groove;
+border-color: red;
+border-width:25px;}
+
+
+.square4
+{
+	height: 2800px;
+  width: 1300px;
+  background-color: darkblue;
+position: absolute;
+top: 32.5%;
+left: 280px;
+border-style: groove;
+border-color: red;
+border-width:25px;
+}
